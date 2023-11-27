@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>hexo使用</title>
+    <link href="/2023/11/27/hexo%E4%BD%BF%E7%94%A8/"/>
+    <url>/2023/11/27/hexo%E4%BD%BF%E7%94%A8/</url>
+    
+    <content type="html"><![CDATA[<p>常用命令：</p><ul><li>hexo new “文件名”：创建一篇文章</li><li>hexo g（hexo generate）： 生成静态文件</li><li>hexo s（hexo server） ：启动服务预览</li><li>hexo d （hexo deploy）：部署</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Java 基础知识</title>
     <link href="/2023/11/25/Java-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
     <url>/2023/11/25/Java-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
