@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Java 基础知识</title>
+    <link href="/2023/11/25/Java-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <url>/2023/11/25/Java-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    
+    <content type="html"><![CDATA[<h2 id="一、JDK"><a href="#一、JDK" class="headerlink" title="一、JDK"></a>一、JDK</h2><p>JDK（Java Development Kit）：Java开发工具包</p><p>JRE：Java的运行环境</p><p>JDK的组成</p><ul><li>JVM（Java Virtual Machine）：Java虚拟机，运行Java程序的地方</li><li>核心类库：Java内置的核心库</li><li>开发工具：Javaa,Javac</li></ul><p><img src="/2023/11/25/Java-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/image-20231125153537484.png" alt="image-20231125153537484"></p><h2 id="二、集成开发环境Intellij-IDEA"><a href="#二、集成开发环境Intellij-IDEA" class="headerlink" title="二、集成开发环境Intellij IDEA"></a>二、集成开发环境Intellij IDEA</h2><p>IDEA管理Java程序的结构</p><ul><li>project（项目、工程）</li><li>module（模块）</li><li>package（包）</li><li>class（类）</li></ul><p>使用idea开发Java项目的步骤</p><ol><li>创建工程 new Project</li><li>创建模块 new Module （project可以创建多个moudle）</li><li>创建包 new package（moudle可以创建多个package）</li><li>创建类 class</li></ol><h2 id="三、Maven"><a href="#三、Maven" class="headerlink" title="三、Maven"></a>三、Maven</h2><h2 id="四、基础语法"><a href="#四、基础语法" class="headerlink" title="四、基础语法"></a>四、基础语法</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>java</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2023/11/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2023/11/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
